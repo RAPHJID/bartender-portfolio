@@ -66,8 +66,8 @@ header {
 /* ===== HERO ===== */
 .hero {
   height: 100vh;
-  background: linear-gradient(to right, rgba(0,0,0,0.6), rgba(0,0,0,0.2)), 
-              url("https://picsum.photos/1600/900?cocktails") center/cover no-repeat;
+  background: linear-gradient(to right, rgba(204, 146, 146, 0.6), rgba(0,0,0,0.2)), 
+              url("https://images.unsplash.com/photo-1514361892635-d06c7e1e1f8c?auto=format&fit=crop&w=1600&q=80") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
